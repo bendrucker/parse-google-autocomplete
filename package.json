@@ -1,0 +1,36 @@
+{
+  "name": "parse-google-autocomplete",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Parse Google Maps autocomplete results into structured address data",
+  "license": "MIT",
+  "repository": "bendrucker/parse-google-autocomplete",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "place",
+    "autocomplete",
+    "api",
+    "parse"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "obstruction": "~2.0.0",
+    "value-get": "~1.0.0",
+    "value-pipe": "~1.0.0"
+  }
+}

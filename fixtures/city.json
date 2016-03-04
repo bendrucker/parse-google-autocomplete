@@ -1,0 +1,181 @@
+[
+  {
+    "description": "San Francisco, CA, United States",
+    "id": "1b9ea3c094d3ac23c9a3afa8cd4d8a41f05de50a",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 0
+      }
+    ],
+    "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+    "reference": "CkQ4AAAAGzCg2UOCjRoUZa6goOZtX1Y69TOVBzt2svDoisRTRwPhTRYJDI4MLO9QC6xs3tnP4Laa2d5veuFL1iMWeKatPxIQf5es5RsJ8uLPce1aawPkcRoUBOPovDS38LQ_2VNK7uOHzJusKb0",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 15,
+        "value": "CA"
+      },
+      {
+        "offset": 19,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "locality",
+      "political",
+      "geocode"
+    ]
+  },
+  {
+    "description": "San Francisco Marriott Marquis, Mission Street, San Francisco, CA, United States",
+    "id": "f007d2f91c0070ebdfec60275baa33623f0b771b",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 0
+      }
+    ],
+    "place_id": "ChIJcT5nNoaAhYARVdbyW3zPwus",
+    "reference": "CmRfAAAArxXQuQgn0DPx_Z23Nwr0xw4GRe6lb2e39u3Zd8NmptnODgv3tK9eoOW3WhgEsHsUih3tlr0eL7tzL8f7tVeoH7umMvoYJNJQ1Fnb-s81t4Ju5AO0Aj98yKn5EkJtMfVoEhBthmHcAsFpFkSruczF5A3pGhSYV3-Fah9wNKBunssh5dH6SzQ4uA",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "San Francisco Marriott Marquis"
+      },
+      {
+        "offset": 32,
+        "value": "Mission Street"
+      },
+      {
+        "offset": 48,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 63,
+        "value": "CA"
+      },
+      {
+        "offset": 67,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  },
+  {
+    "description": "Brook Furniture Rental - San Francisco, CA, Washington Street, San Francisco, CA, United States",
+    "id": "e56e68b75d08d4794f3ce00a05bd16fa722d7932",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 25
+      }
+    ],
+    "place_id": "ChIJXaBNpIqAhYARJ2AheLy91ns",
+    "reference": "CnRtAAAAcfTqKWlfTlhFofkQg1K6H81YVOGwCD25gAiDATx4_aR5KPIfqvvORbx5UeVkAdnZ17rot5A2EsAb9_y6ylcHI6hQclBmju2R2-AipU9puac7rNRitplt2mikv7QaZKTEHRP3mF9brrvlbWo2toDvthIQfc1Goa7Qx2OnudxVTuNE_BoU-lNLONYYaTMsWLO7t9IP_jsQ9jk",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "Brook Furniture Rental - San Francisco, CA"
+      },
+      {
+        "offset": 44,
+        "value": "Washington Street"
+      },
+      {
+        "offset": 63,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 78,
+        "value": "CA"
+      },
+      {
+        "offset": 82,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  },
+  {
+    "description": "Mango Tours - San Francisco, CA, Market Street, San Francisco, CA, United States",
+    "id": "cd12a47dad6b82d69cef921a1e86d3d3cb287096",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 14
+      }
+    ],
+    "place_id": "ChIJW4hY_IWAhYAR9sGgLYVkeCg",
+    "reference": "CmReAAAAyMnGBuDkAM731LdfRCQ40yb64bZzomTfMh69Yg1QbNguZyzfz4hvlu4kdsLCEPD9RFIMtTYGOdmCp3KAjM0EP0tChQL1xJCEIv28IXLabOZ78nGx1ylwLq3_bxpBbgvWEhAoCFzaxPyX8NIoZRh0-hA4GhQowXt3q8EnrUUhCvi5Vn3b9QQizw",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "Mango Tours - San Francisco, CA"
+      },
+      {
+        "offset": 33,
+        "value": "Market Street"
+      },
+      {
+        "offset": 48,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 63,
+        "value": "CA"
+      },
+      {
+        "offset": 67,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  },
+  {
+    "description": "Wolford Boutique San Francisco, CA, Maiden Lane, San Francisco, CA, United States",
+    "id": "f7d32ce5ab2a8631b56aeb9fc8926540fc9663d3",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 17
+      }
+    ],
+    "place_id": "ChIJ67CC4YiAhYARcjGR0QO7zGE",
+    "reference": "CmRfAAAAiwZYcUddBzJb_DcPTfpiXbzovveBlqtNyDV__cLI7nEo3013pbYXuEuRzpYiFbvkoPEHOpIpMrP4QIhXWxu4_N1JfuSP5FRRTk4PSRh18wDhfxUgeOotPD-igrWquXpCEhD0J6sAzQTKM1AIzJq_OwgDGhQyTgJzIf3OKJpAlVo6WhDF5Ia2Zw",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "Wolford Boutique San Francisco, CA"
+      },
+      {
+        "offset": 36,
+        "value": "Maiden Lane"
+      },
+      {
+        "offset": 49,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 64,
+        "value": "CA"
+      },
+      {
+        "offset": 68,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  }
+]

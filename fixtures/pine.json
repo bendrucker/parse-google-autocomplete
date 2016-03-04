@@ -1,0 +1,188 @@
+[
+  {
+    "description": "160 Pine Street, San Francisco, CA, United States",
+    "id": "5e8da3ff28ac0fd308d05cbe3e7ede77a472e2a1",
+    "matched_substrings": [
+      {
+        "length": 3,
+        "offset": 0
+      },
+      {
+        "length": 4,
+        "offset": 4
+      }
+    ],
+    "place_id": "ChIJxYgPJ2KAhYARsz1AuQ_x7gc",
+    "reference": "ClRJAAAAsj8wmRX1WM96wqpAu3kNRVcGLD4yVKvthH31hVyXpkvE-g6m4l4TS8KjMuJYu5zuS4UA4zVllcfRY1hiXt1fXYZt2CM_wQGo71vfe8Wfw7gSEDdW96DZa72uOLu_jInqF2MaFOs0NN5cUbm2Okroywixes5q-SBn",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "160"
+      },
+      {
+        "offset": 4,
+        "value": "Pine Street"
+      },
+      {
+        "offset": 17,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 32,
+        "value": "CA"
+      },
+      {
+        "offset": 36,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "street_address",
+      "geocode"
+    ]
+  },
+  {
+    "description": "160 Pine St, Oakland, CA, United States",
+    "id": "d35e49530429b7994b1978c36e04cd0c71ac3d6e",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 0
+      }
+    ],
+    "place_id": "EicxNjAgUGluZSBTdCwgT2FrbGFuZCwgQ0EsIFVuaXRlZCBTdGF0ZXM",
+    "reference": "CjQrAAAAOjaTRBQmVbmYvkof_c03WR6tnj0By9a7M4TBN9b_0K0rIeZqKNUdFydqPASKxjS3EhAaTIlArxV7x0ABmgULM979GhT-ue4bcg4zZWJjeWiAe4eK1qGYXw",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "160 Pine St"
+      },
+      {
+        "offset": 13,
+        "value": "Oakland"
+      },
+      {
+        "offset": 22,
+        "value": "CA"
+      },
+      {
+        "offset": 26,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "route",
+      "geocode"
+    ]
+  },
+  {
+    "description": "160 Pine Street, San Anselmo, CA, United States",
+    "id": "d48f7a80b6bdf186189084e448ac557d3d87eee9",
+    "matched_substrings": [
+      {
+        "length": 3,
+        "offset": 0
+      },
+      {
+        "length": 4,
+        "offset": 4
+      }
+    ],
+    "place_id": "ChIJqyzXQT6XhYARo4uzCQj9Lbc",
+    "reference": "ClRHAAAA9dn68MOIb7e6mAHudPxnjpw4FmpjTgXwg5U61aZ1N2LT8FOAWPfVgykahgNGRXd537WnNhdKMTChoobXtdkQX1Gk7JTxNuBe7bAB2c_9gaASEHLlRvQeG10tZIctUTfKB9YaFClaucowwxNmDcl6k9T717ob2VTA",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "160"
+      },
+      {
+        "offset": 4,
+        "value": "Pine Street"
+      },
+      {
+        "offset": 17,
+        "value": "San Anselmo"
+      },
+      {
+        "offset": 30,
+        "value": "CA"
+      },
+      {
+        "offset": 34,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "street_address",
+      "geocode"
+    ]
+  },
+  {
+    "description": "160 Pinehurst Way, San Francisco, CA, United States",
+    "id": "f7760f2c9d65ac643a054f6ed8d9a1095b831b08",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 0
+      }
+    ],
+    "place_id": "EjMxNjAgUGluZWh1cnN0IFdheSwgU2FuIEZyYW5jaXNjbywgQ0EsIFVuaXRlZCBTdGF0ZXM",
+    "reference": "CkQ3AAAAVHke7-51FEGD5HfSCxbdwz6HjgQor64ZieIdkXkIBz-jvzHp1wsH2MAqeXNXif4ac-eluUrjEETQ9H-vRWS64BIQrvBTrvtbIeZ-aSqSe9NjfxoUpMpFKquyCdp-87FafvjLg9mADBc",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "160 Pinehurst Way"
+      },
+      {
+        "offset": 19,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 34,
+        "value": "CA"
+      },
+      {
+        "offset": 38,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "route",
+      "geocode"
+    ]
+  },
+  {
+    "description": "160 Pine Avenue, South San Francisco, CA, United States",
+    "id": "d7848c77b5e5941069d0d313d968b9ec18c6abaa",
+    "matched_substrings": [
+      {
+        "length": 8,
+        "offset": 0
+      }
+    ],
+    "place_id": "EjcxNjAgUGluZSBBdmVudWUsIFNvdXRoIFNhbiBGcmFuY2lzY28sIENBLCBVbml0ZWQgU3RhdGVz",
+    "reference": "CkQ7AAAAalw4X4MUWBYOsZfwbxKtR5AnzhcOSGBGeRRHGj3vjubqtYmatEtu0MvTY9kF9XsBEZgShhj9bL-XNKmJ3yJQ3RIQK-BBocqdORu94EXy2OoHwxoUncu10Bn9s7jmDqoO-z3kbHt8eNI",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "160 Pine Avenue"
+      },
+      {
+        "offset": 17,
+        "value": "South San Francisco"
+      },
+      {
+        "offset": 38,
+        "value": "CA"
+      },
+      {
+        "offset": 42,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "route",
+      "geocode"
+    ]
+  }
+]

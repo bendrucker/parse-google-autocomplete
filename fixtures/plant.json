@@ -1,0 +1,187 @@
+[
+  {
+    "description": "The Plant Cafe Organic, California Street, San Francisco, CA, United States",
+    "id": "449691beb9adadf30f566e6467c0aacb5b5354d6",
+    "matched_substrings": [
+      {
+        "length": 10,
+        "offset": 4
+      }
+    ],
+    "place_id": "ChIJAf9gS2eAhYARMgTS-ADk4Jw",
+    "reference": "CmRaAAAAegW8iuuCx6YlOMT7m32mWwMJ96RdIV6fvjFi6HB5fYrbFYEc93WgOiKnZ8YjyaGEynPYkMRnwDxWodB89zgbbYrC0Gve5XsUIHDey93q3iDat9-l4KhoiNENPhRPNxlKEhD5Lylfi-67W77gGP914tH3GhSrqRUVrEFw8NeqhvP_g56kPBdkJg",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "The Plant Cafe Organic"
+      },
+      {
+        "offset": 24,
+        "value": "California Street"
+      },
+      {
+        "offset": 43,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 58,
+        "value": "CA"
+      },
+      {
+        "offset": 62,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  },
+  {
+    "description": "The Plant Cafe Organic, Steiner Street, San Francisco, CA, United States",
+    "id": "8d56acc3a3c1bd797b1d7d1eac267ee1305ad857",
+    "matched_substrings": [
+      {
+        "length": 10,
+        "offset": 4
+      }
+    ],
+    "place_id": "ChIJI1V9L9eAhYAR_hB20TCbwMQ",
+    "reference": "CmRXAAAAzM6FVYM9SXNvIWJBgkkjqJXehcTlWnmhHtlIBAy5Yx4kgZw8DQTKAvdGJf5G3JU02RKHiramA4crDF-DPHdDUrwfxEtRALHWLXyluLlYLnSuFMzmr3tBvL1x6E7F2v0-EhBjYgCHeqbt6xHW7YLzmY16GhSFDkniREG9MigbKU8fRjkQKE0Ifg",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "The Plant Cafe Organic"
+      },
+      {
+        "offset": 24,
+        "value": "Steiner Street"
+      },
+      {
+        "offset": 40,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 55,
+        "value": "CA"
+      },
+      {
+        "offset": 59,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  },
+  {
+    "description": "The Plant Cafe, 3rd Street, San Francisco, CA, United States",
+    "id": "e51d5a87169f4504d2ab13cdb5d0e09d40374f6c",
+    "matched_substrings": [
+      {
+        "length": 10,
+        "offset": 4
+      }
+    ],
+    "place_id": "ChIJE2viabh_j4ARdubPMPB9n90",
+    "reference": "ClRLAAAAaEP3p0039kHx7XLpbybSkv9R_CZpsiQ52U30vPDTLtYbwV1D28eK1fl1gCWlcD9UO21AnZwe6F98VeIQQoTF8T4gjMX_q1UhZ0Jm5TiVyBUSEEadtjJKf8vF4kZ98dFTOtwaFDcGW-8Pwk2n5Unk-EGPgbGGugXd",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "The Plant Cafe"
+      },
+      {
+        "offset": 16,
+        "value": "3rd Street"
+      },
+      {
+        "offset": 28,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 43,
+        "value": "CA"
+      },
+      {
+        "offset": 47,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  },
+  {
+    "description": "The Plant Cafe Organic, Montgomery Street, San Francisco, CA, United States",
+    "id": "47c9f4bec513f92e6304761a9f49b23edc590b13",
+    "matched_substrings": [
+      {
+        "length": 10,
+        "offset": 4
+      }
+    ],
+    "place_id": "ChIJj82CHYqAhYARe8UgTiOOOcY",
+    "reference": "CmRaAAAAufdNgAEwiGoRfO-yMso4m07W4LjTidLA01nZPyKLziIUl9FzoSTVjnh0jt3ylTyCzkAaTXMqWdT9qwkUFkjswDH-SQr-ta53yBIxaM_PeTZOSWEdaZG8Jx_9EtRkWE56EhBezbP4RuzKvewU9eocKZUvGhQSOe7cKcV-a_0rgBCdXLq37WsJLA",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "The Plant Cafe Organic"
+      },
+      {
+        "offset": 24,
+        "value": "Montgomery Street"
+      },
+      {
+        "offset": 43,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 58,
+        "value": "CA"
+      },
+      {
+        "offset": 62,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  },
+  {
+    "description": "The Plant Cafe Organic, Redwood Highway, Mill Valley, CA, United States",
+    "id": "95d5885fa4045966e98d0cdbdb09ccd8a59ff912",
+    "matched_substrings": [
+      {
+        "length": 10,
+        "offset": 4
+      }
+    ],
+    "place_id": "ChIJAQAA9LWahYARaynILg21aNI",
+    "reference": "CmRWAAAAhBlFAlBg7Ax3_wivz5TTEE9ypTIdaFBZAbzjVMrPnILDYcOLM-VphPsD0mejHE69zEKsNjFLi5itPKyu0uuwHxdLPuMaRmB8IGpHlfmBkyLaWeV2theabb-xh4TOVzSDEhDuG8HQHk66MY7L87TWDGS7GhR4-vmAe7a9Hmw5nz3Y9BuSVNHsjQ",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "The Plant Cafe Organic"
+      },
+      {
+        "offset": 24,
+        "value": "Redwood Highway"
+      },
+      {
+        "offset": 41,
+        "value": "Mill Valley"
+      },
+      {
+        "offset": 54,
+        "value": "CA"
+      },
+      {
+        "offset": 58,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "establishment"
+    ]
+  }
+]

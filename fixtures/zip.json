@@ -1,0 +1,150 @@
+[
+  {
+    "description": "San Francisco, CA 94107, United States",
+    "id": "270a06dae806e3a0bbd9b8024db5308dcede7d31",
+    "matched_substrings": [
+      {
+        "length": 5,
+        "offset": 18
+      }
+    ],
+    "place_id": "ChIJg0__2jN-j4AR479OXNRG7O8",
+    "reference": "CkQ-AAAAaNu2gS2WKLa-Z1V0Q51SAltTYt9y162dT9rsXTGCgHXfxvxEnxy0dpuQwHry1W-nu-ry8ZvuC1tucRBofIVtABIQm40YBm4TgXFkga2SdeHrrBoUP6i4swYnwi0QtwToEyo9NNJlAR8",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "San Francisco"
+      },
+      {
+        "offset": 15,
+        "value": "CA"
+      },
+      {
+        "offset": 18,
+        "value": "94107"
+      },
+      {
+        "offset": 25,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "postal_code",
+      "geocode"
+    ]
+  },
+  {
+    "description": "94107 Limpkin Lane, Fernandina Beach, FL, United States",
+    "id": "3b53948540646c63392972144b283d297b795926",
+    "matched_substrings": [
+      {
+        "length": 5,
+        "offset": 0
+      }
+    ],
+    "place_id": "ChIJleHg8vH_5IgRm_Sw-KicZ5A",
+    "reference": "ClRPAAAAkvcaGzZD5IoaAVcdowrKD45YuV0wh8Q4UJF7M4U6fh8R86vvkZccXFxoc9BBkcFN9g4vMZJhSSMoekY08ocss9CT2tkruqVWbkURj3uy6UESELMFDf5EolcDq5MAcFbP-zsaFJ7SNZK9cdT0p_tVTxjz_9SO8OSH",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "94107"
+      },
+      {
+        "offset": 6,
+        "value": "Limpkin Lane"
+      },
+      {
+        "offset": 20,
+        "value": "Fernandina Beach"
+      },
+      {
+        "offset": 38,
+        "value": "FL"
+      },
+      {
+        "offset": 42,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "street_address",
+      "geocode"
+    ]
+  },
+  {
+    "description": "941077 Haalau Street, Waipahu, HI, United States",
+    "id": "c821b052175a5bba365d8cda8d60d328180a5b9d",
+    "matched_substrings": [
+      {
+        "length": 5,
+        "offset": 0
+      }
+    ],
+    "place_id": "ChIJc9-QZ55mAHwRRaLpwnq3bMA",
+    "reference": "ClRIAAAAfUH_DPw8ACYW7p2S-Q1s0Wgp8LpHvlYqaTHHMEh_EAP4Skc2EqkI9Q-39VR4_GmfihAR75yKJhdJuoHgjJnBexi0qfrcHlRQ10UKXkebCr4SEGXuh5hd3AdjCI36PvdwVCYaFF_SDaKw4CW_uYmko3QuSpaOEyeS",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "941077"
+      },
+      {
+        "offset": 7,
+        "value": "Haalau Street"
+      },
+      {
+        "offset": 22,
+        "value": "Waipahu"
+      },
+      {
+        "offset": 31,
+        "value": "HI"
+      },
+      {
+        "offset": 35,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "street_address",
+      "geocode"
+    ]
+  },
+  {
+    "description": "941077 Kapehu Street, Waipahu, HI, United States",
+    "id": "9b823d8a93613127db2a9857ce68dec8f2c48b3b",
+    "matched_substrings": [
+      {
+        "length": 5,
+        "offset": 0
+      }
+    ],
+    "place_id": "ChIJ0zotEqZmAHwRBYEa74h_6m8",
+    "reference": "ClRIAAAApafSeR1YhlOg27a8zv_WAU51_iSTFvInPGZrC6s96MQE9pwkB5r7wOw0B_Jri9EpLPHRCnpi7IbEzXbECRAeD5e6vVrd3aCWF-V0FDJ0ZxwSEGBAHpG4KQxT8GovCIcrGQsaFFuR2WgFCCUbgpB5JE3s-SNNafcT",
+    "terms": [
+      {
+        "offset": 0,
+        "value": "941077"
+      },
+      {
+        "offset": 7,
+        "value": "Kapehu Street"
+      },
+      {
+        "offset": 22,
+        "value": "Waipahu"
+      },
+      {
+        "offset": 31,
+        "value": "HI"
+      },
+      {
+        "offset": 35,
+        "value": "United States"
+      }
+    ],
+    "types": [
+      "street_address",
+      "geocode"
+    ]
+  }
+]
