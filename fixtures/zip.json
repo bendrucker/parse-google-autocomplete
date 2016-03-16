@@ -34,40 +34,32 @@
     ]
   },
   {
-    "description": "94107 Limpkin Lane, Fernandina Beach, FL, United States",
-    "id": "3b53948540646c63392972144b283d297b795926",
+    "description": "CA 91335, United States",
+    "id": "1c62b6eff671d89da253fb8ae8b0dde223353144",
     "matched_substrings": [
       {
         "length": 5,
-        "offset": 0
+        "offset": 3
       }
     ],
-    "place_id": "ChIJleHg8vH_5IgRm_Sw-KicZ5A",
-    "reference": "ClRPAAAAkvcaGzZD5IoaAVcdowrKD45YuV0wh8Q4UJF7M4U6fh8R86vvkZccXFxoc9BBkcFN9g4vMZJhSSMoekY08ocss9CT2tkruqVWbkURj3uy6UESELMFDf5EolcDq5MAcFbP-zsaFJ7SNZK9cdT0p_tVTxjz_9SO8OSH",
+    "place_id": "ChIJB1UAYNabwoAR2m8Gk8aMGm0",
+    "reference": "CjQvAAAAhbPYKbduv0UJyCeN6924kACzL-SL6YlkftN4qUoPCmatOQhQoGcaLb_9Gqes2_QSEhCIb02WjoDPHy3pAwbqIloGGhT1dU1eSpXxeSs5yZAor1dHXKyMBg",
     "terms": [
       {
         "offset": 0,
-        "value": "94107"
+        "value": "CA"
       },
       {
-        "offset": 6,
-        "value": "Limpkin Lane"
+        "offset": 3,
+        "value": "91335"
       },
       {
-        "offset": 20,
-        "value": "Fernandina Beach"
-      },
-      {
-        "offset": 38,
-        "value": "FL"
-      },
-      {
-        "offset": 42,
+        "offset": 10,
         "value": "United States"
       }
     ],
     "types": [
-      "street_address",
+      "postal_code",
       "geocode"
     ]
   },

@@ -3,6 +3,8 @@
 var Obstruct = require('obstruction')
 var pipe = require('value-pipe')
 var get = require('value-get')
+var find = require('array-find')
+var findIndex = require('array-find-index')
 
 module.exports = pipe(Extract(), Transform())
 
@@ -52,15 +54,19 @@ function street (place) {
 }
 
 function city (place) {
-  return place.terms[cityIndex(place)]
+  return place.zip && place.terms[0].toUpperCase() === place.terms[0]
+    ? null
+    : place.terms[cityIndex(place)]
 }
 
 function state (place) {
-  return place.terms[cityIndex(place) + 1]
+  return place.zip
+    ? place.terms[findIndex(place.terms, numeric) - 1]
+    : place.terms[cityIndex(place) + 1]
 }
 
 function zip (place) {
-  return place.zip ? place.terms[2] : null
+  return place.zip ? find(place.terms, numeric) : null
 }
 
 function cityIndex (place) {
@@ -70,4 +76,8 @@ function cityIndex (place) {
 
 function isLocation (place) {
   return !place.zip && !place.city
+}
+
+function numeric (term) {
+  return /^\d+$/.test(term)
 }

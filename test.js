@@ -64,6 +64,17 @@ test('google place parsing', function (t) {
       zip: '94107'
     }, 'maps properties')
 
+    t.deepEqual(results[1], {
+      business: false,
+      title: null,
+      street: null,
+      description: 'CA 91335, United States',
+      city: null,
+      state: 'CA',
+      id: 'ChIJB1UAYNabwoAR2m8Gk8aMGm0',
+      zip: '91335'
+    }, 'maps properties with alternate format')
+
     t.end()
   })
 

@@ -29,6 +29,8 @@
     "index.js"
   ],
   "dependencies": {
+    "array-find": "~1.0.0",
+    "array-find-index": "~1.0.1",
     "obstruction": "~2.0.0",
     "value-get": "~1.0.0",
     "value-pipe": "~1.0.0"
