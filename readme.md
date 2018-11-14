@@ -1,4 +1,4 @@
-# parse-google-autocomplete [![Build Status](https://travis-ci.org/bendrucker/parse-google-autocomplete.svg?branch=master)](https://travis-ci.org/bendrucker/parse-google-autocomplete)
+# parse-google-autocomplete [![Build Status](https://travis-ci.org/bendrucker/parse-google-autocomplete.svg?branch=master)](https://travis-ci.org/bendrucker/parse-google-autocomplete) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/parse-google-autocomplete.svg)](https://greenkeeper.io/)
 
 > Parse Google Maps autocomplete results into structured address data
 
