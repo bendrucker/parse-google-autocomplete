@@ -95,4 +95,6 @@ test('google place parsing', function (t) {
 
     t.end()
   })
+
+  t.end()
 })
